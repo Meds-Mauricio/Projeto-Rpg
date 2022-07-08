@@ -1,10 +1,10 @@
-import *as C from './App.styles';
+import * as C from './App.styles';
 
 const App = () => {
     return (
         <C.Container>
             <C.Map>
-
+                
             </C.Map>
         </C.Container>
     )
